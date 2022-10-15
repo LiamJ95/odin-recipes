@@ -1,0 +1,14 @@
+/* styling for the recipe website */ 
+
+body {
+    background-color: rgb(84, 84, 87);
+    color: lightblue;
+}
+
+.button {
+    color: white;
+}
+
+a {
+    color: white;
+}

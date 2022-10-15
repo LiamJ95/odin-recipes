@@ -1,0 +1,35 @@
+a {
+    color: brown;
+}
+
+body {
+    background-color: antiquewhite;
+}
+
+img {
+    height: auto;
+    width: 500px;
+    padding-left: 60px;
+}
+
+h1 {
+    text-align: center;
+    color: brown;
+    font-family: helvetica;
+}
+
+h4 {
+    color: brown;
+}
+
+p {
+    font-weight: bold;
+}
+
+
+.bullet {
+    color: brown;
+    font-weight: bold;
+
+}
+
