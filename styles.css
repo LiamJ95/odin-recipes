@@ -1,12 +1,30 @@
 /* styling for the recipe website */ 
 
+img { 
+    height: auto;
+    width: 500px;
+    border-radius: 5%; 
+    padding-left: 35px
+    ;
+}
+
 body {
     background-color: rgb(84, 84, 87);
     color: lightblue;
 }
+h1 { 
+    text-align: center;
+    font-size: 30;
+}
+
+.bullet {
+    padding-left: 30%;
+}
 
 .button {
     color: white;
+    font-size: 20;
+    
 }
 
 a {
